@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-01-17T13:44:01Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "lumen"
+        },
+        "Owner": "Alex Stabile <pauciuri@gmail.com>",
+        "Size": {
+            "X": 52.05,
+            "Y": 43.358
+        }
+    }
+}
